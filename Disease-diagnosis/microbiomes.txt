@@ -1,0 +1,8 @@
+root:Health
+root:Diseases:Digestive System Diseases:Gastrointestinal Diseases:Intestinal Diseases:Inflammatory Bowel Diseases:Colitis, Ulcerative
+root:Diseases:Digestive System Diseases:Gastrointestinal Diseases:Intestinal Diseases:Inflammatory Bowel Diseases:Crohn Disease
+root:Diseases:Digestive System Diseases:Gastrointestinal Diseases:Intestinal Diseases:Inflammatory Bowel Diseases
+root:Diseases:Digestive System Diseases:Gastrointestinal Diseases:Intestinal Diseases:Colonic diseases:Irritable Bowel Syndrome
+root:Infections:Bacterial Infections and Mycoses:Bacterial Infections:Gram-Positive Bacterial Infections:Clostridium Infections
+root:Diseases:Hemic and Lymphatic Diseases:Hematologic Diseases:Hematologic Neoplasms
+root:Diseases:Digestive System Diseases:Liver Diseases:Liver Cirrhosis

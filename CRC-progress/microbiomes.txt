@@ -1,3 +1,5 @@
-root:adenoma
-root:carcinoma
-root:normal
+root:CRC (stage 0)
+root:CRC (stage I)
+root:CRC (stage II)
+root:CRC (stage III)
+root:CRC (stage IV)
