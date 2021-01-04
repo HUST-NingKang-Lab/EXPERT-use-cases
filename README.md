@@ -6,7 +6,7 @@ This repository aim to reproduce the results of our original paper, and show-cas
 
 [REF]
 
-## Reproducable research
+## Reproducible research
 
 - [Generalizing general knowledge into context-dependent application: systematic assessment]()
 - [EXPERT enables lifelong adaptation for emerging microbiome data]()
