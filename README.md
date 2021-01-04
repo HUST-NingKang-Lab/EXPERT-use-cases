@@ -1,6 +1,6 @@
 # EXPERT-use-cases
 
-This repository aim to reproduce the results of our original paper, and show-case the functionality of EXPERT.
+This repository provides resources for you to reproduce the results of our original paper, and show-cases the functionality of EXPERT.
 
 ## Publications
 
