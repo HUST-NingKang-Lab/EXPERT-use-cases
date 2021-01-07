@@ -1,0 +1,6 @@
+,ROC-AUC,F-max
+root:CRC (stage 0),0.0,
+root:CRC (stage I),0.907,0.8485
+root:CRC (stage II),0.7965,0.8333
+root:CRC (stage III),0.9838,0.8889
+root:CRC (stage IV),0.9971,0.9787
