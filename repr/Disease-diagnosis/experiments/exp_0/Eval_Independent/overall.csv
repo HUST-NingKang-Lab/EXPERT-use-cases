@@ -1,0 +1,21 @@
+,ROC-AUC,F-max
+root:Diseases,0.6971,0.4727
+root:Health,0.6824,0.8899
+root:Infections,0.7201,0.4691
+root:Diseases:Digestive System Diseases,0.7691,0.9172
+root:Diseases:Hemic and Lymphatic Diseases,0.868,0.7182
+root:Infections:Bacterial Infections and Mycoses,0.6947,0.472
+root:Diseases:Digestive System Diseases:Gastrointestinal Diseases,0.7828,0.8238
+root:Diseases:Digestive System Diseases:Liver Diseases,0.57,0.2633
+root:Diseases:Hemic and Lymphatic Diseases:Hematologic Diseases,0.8509,0.7653
+root:Infections:Bacterial Infections and Mycoses:Bacterial Infections,0.7525,0.5114
+root:Diseases:Digestive System Diseases:Gastrointestinal Diseases:Intestinal Diseases,0.8145,0.8652
+root:Diseases:Digestive System Diseases:Liver Diseases:Liver Cirrhosis,0.4323,0.1842
+root:Diseases:Hemic and Lymphatic Diseases:Hematologic Diseases:Hematologic Neoplasms,0.9183,0.8195
+root:Infections:Bacterial Infections and Mycoses:Bacterial Infections:Gram-Positive Bacterial Infections,0.8736,0.6614
+root:Diseases:Digestive System Diseases:Gastrointestinal Diseases:Intestinal Diseases:Colonic diseases,0.7364,0.4317
+root:Diseases:Digestive System Diseases:Gastrointestinal Diseases:Intestinal Diseases:Inflammatory Bowel Diseases,0.8067,0.7942
+root:Infections:Bacterial Infections and Mycoses:Bacterial Infections:Gram-Positive Bacterial Infections:Clostridium Infections,0.8602,0.5732
+root:Diseases:Digestive System Diseases:Gastrointestinal Diseases:Intestinal Diseases:Colonic diseases:Irritable Bowel Syndrome,0.6731,0.5056
+"root:Diseases:Digestive System Diseases:Gastrointestinal Diseases:Intestinal Diseases:Inflammatory Bowel Diseases:Colitis, Ulcerative",0.6866,0.7403
+root:Diseases:Digestive System Diseases:Gastrointestinal Diseases:Intestinal Diseases:Inflammatory Bowel Diseases:Crohn Disease,0.6108,0.3253
