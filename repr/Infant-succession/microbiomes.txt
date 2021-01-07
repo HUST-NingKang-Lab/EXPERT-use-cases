@@ -1,0 +1,7 @@
+root:mother
+root:baby_birth
+root:baby_birth:vaginal_delivery
+root:baby_birth:cesarean_section
+root:baby_fourthmonth
+root:baby_fourthmonth:vaginal_delivery
+root:baby_fourthmonth:cesarean_section
