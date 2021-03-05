@@ -1,0 +1,8 @@
+,ROC-AUC,F-max
+root:baby_birth,0.7574,0.7143
+root:baby_fourthmonth,0.8199,0.75
+root:mother,1.0,1.0
+root:baby_birth:cesarean_section,0.77,0.4
+root:baby_birth:vaginal_delivery,0.7209,0.6875
+root:baby_fourthmonth:cesarean_section,0.94,0.6667
+root:baby_fourthmonth:vaginal_delivery,0.756,0.6875
