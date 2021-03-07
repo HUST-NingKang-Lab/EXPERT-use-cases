@@ -2,9 +2,15 @@
 
 This repository provides resources for you to reproduce the results of our original paper, and show-cases the functionality of EXPERT.
 
+![](https://github.com/HUST-NingKang-Lab/EXPERT/blob/master/docs/materials/application.png)
+
 ## Publications
 
-[REF]
+```
+Enabling technology for microbial source tracking based on transfer learning: From ontology-aware general knowledge to context-aware expert systems
+Hui Chong, Qingyang Yu, Yuguo Zha, Guangzhou Xiong, Nan Wang, Chuqing Sun, Sicheng Wu, Weihua Chen, Kang Ning
+bioRxiv 2021.01.29.428751; doi: https://doi.org/10.1101/2021.01.29.428751
+```
 
 ## Reproducible research
 
